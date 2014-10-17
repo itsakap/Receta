@@ -20,6 +20,8 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 
 gem 'bower-rails'
+gem 'angular-rails-templates'
+
 
 gem "foreman"
 
