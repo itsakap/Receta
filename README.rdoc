@@ -1,6 +1,7 @@
 == Receta
 
-A tutorial I followed available at http://angular-rails.com/
+A tutorial I followed available at http://www.angular-rails.com
 
 Enjoy!
+
 -A
