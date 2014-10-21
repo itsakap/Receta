@@ -2,6 +2,10 @@
 
 A tutorial I followed available at http://www.angular-rails.com
 
+Allows CRUD (Create, Read, Update, Destroy) of a Recipe object.
+
+Fully tested too (front- and back-end)
+
 Enjoy!
 
 -A
