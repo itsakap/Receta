@@ -6,6 +6,8 @@ Allows CRUD (Create, Read, Update, Destroy) of a Recipe object.
 
 Fully tested too (front- and back-end)
 
+Available for public viewing at http://hidden-stream-4178.herokuapp.com
+
 Enjoy!
 
 -A
