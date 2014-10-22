@@ -6,7 +6,7 @@ Allows CRUD (Create, Read, Update, Destroy) of a Recipe object.
 
 Fully tested too (front- and back-end)
 
-Available live at http://powerful-gorge-9658.herokuapp.com (might take a while to load unless I set up New Relic)
+Available live at http://powerful-gorge-9658.herokuapp.com (might take a while to load until I set up New Relic)
 
 Enjoy!
 
